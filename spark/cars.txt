@@ -1,0 +1,7 @@
+brand|model|engine_size|wheel_drive|turbo|fuel_type|transmission
+bmw|220d|2.0|rear|true|diesel|automatic
+bmw|220dx|2.0|full|true|diesel|automatic
+bmw|220|2.0|rear|true|petrol|automatic
+skoda|fabia|1.2|front|false|petrol|manual
+skoda|octavia|1.6|front|true|petrol
+opel|corsa|1.6||true|petrol|manual
